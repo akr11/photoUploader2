@@ -33,7 +33,7 @@ The app displays:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/flutter-photo-uploader.git
+   git clone https://github.com/akr11/photoUploader2
    cd flutter-photo-uploader
    ```
 
